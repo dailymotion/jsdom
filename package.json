@@ -66,7 +66,7 @@
        "xmlhttprequest": ">=1.5.0",
        "cssom": "~0.3.0",
        "cssstyle": "~0.2.9",
-       "contextify": "dailymotion/contextify"
+       "contextify": "0.1.5"
     },
     "devDependencies" : {
       "nodeunit": "~0.8.0",
